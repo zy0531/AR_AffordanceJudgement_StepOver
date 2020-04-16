@@ -1,0 +1,4 @@
+#Thu Apr 16 18:17:42 CDT 2020
+base.0=D\:\\Vandy\\Vandy 2020 Spring\\AR\\Affordance Judgement\\Code\\AJ20200403StepOver\\Temp\\gradleOut\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex

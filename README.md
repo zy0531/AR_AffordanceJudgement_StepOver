@@ -29,23 +29,23 @@ Hold the smart phone upright and start the app.
 
 *2. Input Maximum Step Size*
 
-Input your Maximum Step Size on upper left corner. Click on button "OK" to confrim your input.
+Input your Maximum Step Size on upper left corner. Click on button "OK" to confirm your input.
 
 <img src="https://github.com/zy0531/AR_AffordanceJudgement_StepOver/blob/master/ScreenShot/Screenshot1.jpg" width="150" height="300"/>
 
 *3. Detect Surface*
 
-Scan the environment and there will be blue and white spots on the floor when the system detect that surface. Hit a specific point on the floor and a blue virtual gap will show up on the point with the same x and y coordinate of your hit, near your feet. The width of the gap depends on the your input step size. The gap starts with small width then large width.
+Scan the environment and there will be blue and white spots on the floor when the system detects that surface. Hit a specific point on the floor and a blue virtual gap will show up on the point with the same x and y coordinate of your hit, near your feet. The width of the gap depends on your input step size. The gap starts with small width then large width.
 
 <img src="https://github.com/zy0531/AR_AffordanceJudgement_StepOver/blob/master/ScreenShot/Screenshot2.jpg" width="150" height="300"/>
 
-*4. Move Virtual Poles*
+*4. Change Gap Width*
 
-Click on 'Narrow' or 'Widen' button to make the gap change 5cm increments narrower or wider every single time.  You can click the button 'Go!' when you think you have adjust the gap width to right let you step over with your biggest capability. The system will show "[Trial #] Please hit the the ground to continue the trial." 
+Click on 'Narrow' or 'Widen' button to make the gap change 5cm increments narrower or wider every single time. You can click the button 'Go!' when you think you have adjusted the gap width to right let you step over with your biggest capability. System will show "[Trial #] Please hit the the ground to continue the trial."
 
 *5. Show the Cue*
 
-When it comes to the 4th trial, there will show up a transparent circle with your step size showing under your feet. You can use that as a cue to help you estimate the maximum gap letting you step over.
+When it comes to the 4th trial, there will show up a transparent circle with your step size showing under your feet. You can use that as a cue to help you estimate the maximum gap you are able to step over.
 
 <img src="https://github.com/zy0531/AR_AffordanceJudgement_StepOver/blob/master/ScreenShot/Screenshot4.jpg" width="150" height="300"/>
 

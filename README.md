@@ -41,7 +41,7 @@ Scan the environment and there will be blue and white spots on the floor when th
 
 *4. Change Gap Width*
 
-Click on 'Narrow' or 'Widen' button to make the gap change 5cm increments narrower or wider every single time. You can click the button 'Go!' when you think you have adjusted the gap width to right let you step over with your biggest capability. System will show "[Trial #] Please hit the the ground to continue the trial."
+Click on 'Narrow' or 'Widen' button to make the gap change 5cm increments narrower or wider every single time. You can click the button 'Go!' when you think you have adjusted the gap width to right let you step over with your maximum capability. System will show "[Trial #] Please hit the the ground to continue the trial."
 
 *5. Show the Cue*
 
@@ -55,7 +55,7 @@ When you complete all trials, The system will show "You've finished all trials :
 
 *7. Record the Experiment Data*
 
-This App uses "Application.persistentDataPath" to record the experiment data.  "Application.persistentDataPath" points to points to a public directory on the device(eg./storage/emulated/0/Android/data/<packagename>/files on most devices). Files in this location are not erased by app updates. The files can still be erased by users directly. [In our case, the data can be find in, when connecting a computer, This PC\Galaxy S8\Phone\Android\data\com.DefaultCompany.AJStepOver.]
+This App uses "Application.persistentDataPath" to record the experiment data.  "Application.persistentDataPath" points to points to a public directory on the device(/storage/emulated/0/Android/data/<packagename>/files on most Android devices). Files in this location are not erased by app updates. The files can still be erased by users directly. [In our case, the data can be find in, when connecting a computer, This PC\Galaxy S8\Phone\Android\data\com.DefaultCompany.AJStepOver.]
   
 <img src="https://github.com/zy0531/AR_AffordanceJudgement_StepOver/blob/master/ScreenShot/data.PNG" width="300" height="100"/>
 

@@ -62,7 +62,7 @@ This App uses "Application.persistentDataPath" to record the experiment data.  "
 ## Limitation
 If you do not hold the phone in an appropriate upright pose, the initializing position of the virtual gap would drift (because the position of the model is localized by the camera pose). 
 
-If when you hit the ground, there is not a virtual gap showing up, that means you have not hit a detected part. So just try again.
+If when you hit the ground, there is not a virtual gap showing up, that means you have not hit a detected part, just try again.
 
 ## Demo Video
 A whole process of this experiment.

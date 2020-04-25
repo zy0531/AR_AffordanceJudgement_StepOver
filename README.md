@@ -59,6 +59,14 @@ This App uses "Application.persistentDataPath" to record the experiment data.  "
   
 <img src="https://github.com/zy0531/AR_AffordanceJudgement_StepOver/blob/master/ScreenShot/data.PNG" width="300" height="100"/>
 
+## Limitation
+If you do not hold the phone in an appropriate upright pose, the initializing position of the virtual gap would drift (because the position of the model is localized by the camera pose). 
+
+If when you hit the ground, there is not a virtual gap showing up, that means you have not hit a detected part. So just try again.
+
 ## Demo Video
 A whole process of this experiment.
 https://drive.google.com/file/d/1KquHwXW6KtMTtIGB7kXhiu2w7woc9hJC/view?usp=sharing
+
+## How to run the code
+Download AJStepOver.apk from AJ20200403StepOver/APP file and install it on an Android phone(Android 9 or higher). Then run the app by referencing the interaction description.
